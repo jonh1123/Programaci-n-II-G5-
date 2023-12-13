@@ -1,0 +1,36 @@
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.xml
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbprojResolveAssemblyReference.cache
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formcategorias.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Resources.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.GenerateResource.Cache
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.xml
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formmenu.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formcliente.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formproducto.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormVenta.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Login1.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormlistaVentas.resources
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.xml
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.AssemblyReference.cache
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formcategorias.resources
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formcliente.resources
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormlistaVentas.resources
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formmenu.resources
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formproducto.resources
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormVenta.resources
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Login1.resources
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Resources.resources
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.GenerateResource.cache
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.xml
+C:\Users\user\Downloads\programacion parcial del dia 12\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
